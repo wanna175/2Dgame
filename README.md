@@ -4,9 +4,10 @@
 
 ---
 
-## 🎥 유튜브 데모
+## 🎥 유튜브 데모 보기
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RH5r6KlxC9s?si=e8Z3ze-9tIBeQNMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![유튜브 데모 보기](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
 
 
 
