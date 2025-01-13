@@ -42,7 +42,7 @@
 - 사용자가 원하는 캐릭터를 선택할 수 있도록 구현하였습니다.
 - **캐릭터마다 고유 스킬**을 설정하고 스킬에 따라 플레이 스타일을 다르게 하였습니다.
 
-<img src="https://raw.githubusercontent.com/wanna175/2Dgame/main/img/arrow3.PNG" alt="캐릭터선택화면" width="800"/>
+<img src="https://raw.githubusercontent.com/wanna175/2Dgame/main/img/arrow3.PNG" alt="캐릭터선택화면" width="600"/>
 
 ---
 
