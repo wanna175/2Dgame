@@ -10,7 +10,7 @@
 - 화살 방향은 **플레이어를 항상 바라보면서 생성**됩니다.
 - **객체 풀링(Object Pooling)**을 통해 객체의 생성과 삭제를 최소화하였습니다.
 
-<img src="https://raw.githubusercontent.com/wanna175/2Dgame/img/arrow01.PNG" alt="화살 방향 설정" width="600"/>
+<img src="https://raw.githubusercontent.com/wanna175/2Dgame/main/img/arrow01.PNG" alt="화살 방향 설정" width="600"/>
 
 ---
 
@@ -32,7 +32,7 @@
 - **모바일 기반**으로 제작되어 사용자가 화면을 터치하면 **누른 위치에 가상 방향키**가 나타나도록 구현하였습니다.
 - Unity에서 제공하는 다양한 **이벤트 핸들러 인터페이스**를 상속받아 사용하였습니다.
 
-<img src="https://raw.githubusercontent.com/wanna175/2Dgame/img/arrow2.png" alt="가상 조이스틱 구현" width="600"/>
+<img src="https://raw.githubusercontent.com/wanna175/2Dgame/main/img/arrow2.png" alt="가상 조이스틱 구현" width="600"/>
 
 ---
 
@@ -42,7 +42,7 @@
 - 사용자가 원하는 캐릭터를 선택할 수 있도록 구현하였습니다.
 - **캐릭터마다 고유 스킬**을 설정하고 스킬에 따라 플레이 스타일을 다르게 하였습니다.
 
-<img src="https://raw.githubusercontent.com/wanna175/2Dgame/img/arrow01.png" alt="캐릭터선택화면" width="800"/>
+<img src="https://raw.githubusercontent.com/wanna175/2Dgame/main/img/arrow01.png" alt="캐릭터선택화면" width="800"/>
 
 ---
 
