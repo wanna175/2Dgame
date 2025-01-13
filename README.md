@@ -6,7 +6,7 @@
 
 ## 🎥 유튜브 데모 보기
 
-[![유튜브 데모 보기](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![유튜브 데모 보기](https://img.youtube.com/vi/RH5r6KlxC9s?si=e8Z3ze-9tIBeQNMs/0.jpg)](https://www.youtube.com/watch?v=RH5r6KlxC9s?si=e8Z3ze-9tIBeQNMs)
 
 
 
